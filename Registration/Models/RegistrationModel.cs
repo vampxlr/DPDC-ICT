@@ -20,7 +20,7 @@ namespace Registration.Models
         [Required]
         public string EmailAddress { get; set; }
         [Required]
-        public string HearAbout { get; set; }
+        public string Position { get; set; }
         [Required]
         public string PhoneNo { get; set; }
         [Required]
